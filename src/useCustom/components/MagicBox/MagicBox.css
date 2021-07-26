@@ -1,0 +1,12 @@
+:root {
+  --box-size: 200px;
+}
+
+.magic-box {
+  display: inline-block;
+  width: var(--box-size);
+  height: var(--box-size);
+  border-radius: 8px;
+
+  transition: all 0.35s ease-in-out 0s;
+}

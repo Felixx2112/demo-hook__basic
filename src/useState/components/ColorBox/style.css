@@ -1,0 +1,12 @@
+:root {
+  --box-size: 200px;
+}
+
+.color-box {
+  width: var(--box-size);
+  height: var(--box-size);
+  display: inline-block;
+  border-radius: 8px;
+  transition: all 0.35s ease-in-out 0s;
+  cursor: pointer;
+}

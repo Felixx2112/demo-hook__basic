@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.router-custom {
+  list-style: none;
+}
+
+li.router-custom-link {
+  display: inline-block;
+  padding: 20px;
+  margin: 0 40px;
+}
